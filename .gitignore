@@ -63,7 +63,7 @@ typings/
 .node_repl_history
 
 # Output of 'npm pack'
-*.tgz
+
 
 # Yarn Integrity file
 .yarn-integrity
@@ -103,7 +103,7 @@ dist
 # TernJS port file
 .tern-port
 session.asena
-*.db
+
 package-lock.json
 .DS_Store
 config.env
