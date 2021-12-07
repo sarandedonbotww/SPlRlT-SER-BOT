@@ -52,7 +52,7 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
    
 ## Setup
