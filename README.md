@@ -82,8 +82,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/sarandedonbotww/SPlRlT-SER-BOT
+$ cd SPlRlT BOT
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -92,7 +92,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
+$ git clone https://github.com/sarandedonbotww/SPlRlT-SER-BOT
 $ cd SPlRlT SER BOT
 $ chmod +x *
 $ npm i
