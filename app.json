@@ -1,14 +1,14 @@
 {
-    "name": "CATBOTS",
-    "description": "catbots - Whatsapp Bot",
+    "name": "SPlRlTBOT",
+    "description": "SPlRlTBOT- Whatsapp Bot",
     "logo": "https://i.imgur.com/HBlOhMc.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/Itsmebasil0/catbot",
+    "repository": "https://github.com/sarandedonbotww/SPlRlT-SER-BOT",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "CATBOTS_CODE": {
+        "SPlRlTBOT_CODE": {
             "description": "Asena session changed! Type your Catbots code here.",
             "required": true
         },
@@ -108,7 +108,7 @@
         "BOT_NAME": {
             "description": "bot name",
             "required": false,
-            "value": "ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ᴄᴀᴛʙᴏᴛ࿐"
+            "value": SPlRlT SER BOT
         },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 905xxxx && 905xxxx-1xxx or 905xxxx,905xxx...",
