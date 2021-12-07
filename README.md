@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png"https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU>
+  <a href="https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU>
 </p>
    
 ## Setup
