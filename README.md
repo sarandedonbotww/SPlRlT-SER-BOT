@@ -92,7 +92,7 @@ $ node qr.js
 ```js
 SETUP
 $ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ cd SPlRlT SER BOT
 $ chmod +x *
 $ npm i
 $ node qr.js
